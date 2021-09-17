@@ -1,0 +1,13 @@
+{
+  "name": "practical-02",
+  "version": "1.0.0",
+  "author": "Your Name Here <name@middlebury.edu>",
+  "license": "ISC",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
